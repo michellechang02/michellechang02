@@ -1,4 +1,5 @@
 Hi!
-I'm Michelle Chang, a sophomore studying CS at Penn.
+I'm Michelle Chang, studying CS at Penn.
+MBTI: ESTJ
 
-Hometown: Seoul, South Korea
+HABITS
